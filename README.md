@@ -4,7 +4,13 @@
 
 Baue einen WebChat - wie dieser umgesetzt wird kannst du selber entscheiden!
 
-Vorgaben: nodejs (mit express, websocket) serverseitig und clientseitig ausschließlich vanilla JS!
+Vorgaben:
+
+* nodejs (mit express, websocket) serverseitig und clientseitig ausschließlich vanilla JS!
+* User werden per Username identifiziert, der Username wird zu Beginn eingegeben und kann während des Chats auch 
+geändert werden
+* Im Chatverlauf ist neben der eigentlichen Nachricht auch die Uhrzeit und der Username verfügbar
+* Wenn man dem Chat beitritt werden die Nachrichten der letzten 5 Minuten angezeigt
 
 Hier ein paar Ideen/Anmerkungen:
 
