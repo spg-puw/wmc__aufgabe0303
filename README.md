@@ -1,5 +1,7 @@
 # Aufgabe WebChat
 
+Aufgabe by [PUW](https://github.com/spg-puw/).
+
 ## Aufgabe
 
 Baue einen WebChat - wie dieser umgesetzt wird kannst du selber entscheiden!

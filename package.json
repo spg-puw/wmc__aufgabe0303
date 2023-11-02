@@ -1,12 +1,13 @@
 {
   "name": "aufgabe0303",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "node ./node_modules/nodemon/bin/nodemon.js index.js"
+    "start": "node index.mjs",
+    "dev": "node ./node_modules/nodemon/bin/nodemon.js index.mjs"
   },
   "author": "",
   "license": "ISC",
